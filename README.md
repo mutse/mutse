@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 </td>
 
 <td align="center" width="20%">
-<span><b><center>C++</center></b></span> 
+<span><b><center>Haskell</center></b></span> 
 <img height=65px src="https://cdn.svgporn.com/logos/haskell-icon.svg"> 
 </td>
 
@@ -69,5 +69,39 @@ Here are some ideas to get you started:
 </td>
 </tr>
 
+<tr>
+<td align="center" width="20%">
+<span><b><center>Ubuntu</center></b></span> 
+<img height=65px src="https://cdn.svgporn.com/logos/ubuntu.svg"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>VS Code</center></b></span> 
+<img height=65px src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>VS Code</center></b></span> 
+<img height=65px src="https://cdn.svgporn.com/logos/markdown.svg"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://cdn.svgporn.com/logos/git-icon.svg"> 
+</td>
+ 
+<td align="center" width="20%">
+<span><b><center>Github</center></b></span> 
+<img height=65px src="https://cdn.svgporn.com/logos/github-icon.svg"> 
+</td>
+
+</tr>
+
 </tbody>
 </table>
+
+<p align ="left">
+<img src="https://github-readme-stats.vercel.app/api?username=mutse&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
+</p>
