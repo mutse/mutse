@@ -1,14 +1,14 @@
 ### Hi I'm Mutse Young 👋
 
-Hi, My name is Mutse Young. I am a software engineer fom China.
+Hi, My name is Mutse Young. I am a software developer fom China, and an IC software engineer since 2019. You can read more about me in my [blog](http://mutse.github.io/about/).
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on IC software
-- 🌱 I’m currently learning Perl programming language
+- 🔭 I’m currently working on Wuhan of China
+- 🌱 I’m currently learning Perl & Haskell
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about linux commands
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
@@ -59,18 +59,6 @@ Here are some ideas to get you started:
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Haskell</center></b></span> 
-<img height=65px src="https://cdn.svgporn.com/logos/haskell-icon.svg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
 <span><b><center>Ubuntu</center></b></span> 
 <img height=65px src="https://cdn.svgporn.com/logos/ubuntu.svg"> 
 </td>
@@ -79,14 +67,14 @@ Here are some ideas to get you started:
 <span><b><center>VS Code</center></b></span> 
 <img height=65px src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> 
 </td>
+</tr>
 
+<tr>
 <td align="center" width="20%">
 <span><b><center>VS Code</center></b></span> 
 <img height=65px src="https://cdn.svgporn.com/logos/markdown.svg"> 
 </td>
-</tr>
 
-<tr>
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
 <img height=65px src="https://cdn.svgporn.com/logos/git-icon.svg"> 
@@ -96,11 +84,12 @@ Here are some ideas to get you started:
 <span><b><center>Github</center></b></span> 
 <img height=65px src="https://cdn.svgporn.com/logos/github-icon.svg"> 
 </td>
-
 </tr>
 
 </tbody>
 </table>
+
+---
 
 <p align ="left">
 <img src="https://github-readme-stats.vercel.app/api?username=mutse&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
