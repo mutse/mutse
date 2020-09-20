@@ -4,8 +4,8 @@ Hi, My name is Mutse Young. I am a software engineer fom China.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on IC software
+- 🌱 I’m currently learning Perl programming language
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 
 <td align="center" width="20%">
 <span><b><center>C++</center></b></span> 
-<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
+<img height=65px src="https://cdn.svgporn.com/logos/haskell-icon.svg"> 
 </td>
 
 <td align="center" width="20%">
