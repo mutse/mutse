@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 <img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
 </td>
 
-<tr>
 <td align="center" width="20%">
 <span><b><center>SQL</center></b></span> 
 <img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
 </td>
+</tr>
 
 </tbody>
 </table>
