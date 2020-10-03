@@ -2,14 +2,10 @@
 
 Hi, My name is Mutse Young. I am a software developer fom China, and an IC software engineer since 2019. You can read more about me in my [blog](http://mutse.github.io/about/).
 
-- 🔭 I’m currently working on Wuhan of China
-- 🌱 I’m currently learning Perl & Haskell
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working in Wuhan of China
+- 🌱 I’m currently learning Perl, Haskell & docker
 - 💬 Ask me about linux commands
 - 📫 How to contact me: yyhoo2.young@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ## Tech Stack :computer:
 
