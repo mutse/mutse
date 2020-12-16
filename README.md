@@ -1,4 +1,4 @@
-### Hi I'm Mutse Young 👋
+### About Me 👋
 
 Hi, My name is Mutse Young. I am a software developer fom China, and an IC software engineer since 2019. You can read more about me in my [blog](http://mutse.github.io/about/).
 
@@ -65,7 +65,7 @@ Hi, My name is Mutse Young. I am a software developer fom China, and an IC softw
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>VS Code</center></b></span> 
+<span><b><center>Markdown</center></b></span> 
 <img height=65px src="https://cdn.svgporn.com/logos/markdown.svg"> 
 </td>
 
