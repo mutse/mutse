@@ -3,9 +3,9 @@
 Hi, My name is Mutse Young. I am a software developer fom China, and an IC software engineer since 2019. You can read more about me in my [blog](http://mutse.github.io/about/).
 
 - 🔭 I’m currently working in Wuhan of China
-- 🌱 I’m currently learning Perl, Haskell & docker
+- 🌱 I’m currently learning Perl, Docker & Celery
 - 💬 Ask me about linux commands
-- 📫 How to contact me: yyhoo2.young@gmail.com
+- 📫 How to contact me: [email](yyhoo2.young@gmail.com)
 
 ## Tech Stack :computer:
 
