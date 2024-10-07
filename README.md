@@ -3,7 +3,7 @@
 Hi, My name is Mutse Young. I am a software developer fom China, and a Python software engineer since 2019. You can read more about me in my [blog](https://blog.mutse.top/about/).
 
 - 🔭 I’m currently working in Wuhan of China
-- 🌱 I’m currently learning Vue3, Docker & Celery
+- 🌱 I’m currently learning Swift, Docker & Celery
 - 💬 Ask me about linux commands
 - 📫 How to contact me: echo "eXlob28yLnlvdW5nQGdtYWlsLmNvbQo=" | base64 -d
 
