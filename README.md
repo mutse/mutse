@@ -1,6 +1,6 @@
 ### About Me 👋
 
-Hi, My name is Mutse Young. I am a software developer fom China, and a Python software engineer since 2019. You can read more about me in my [blog](https://blog.mutse.top/about/).
+Hi, My name is Mutse Young. I am a software developer fom China, and a Python software engineer since 2019. You can read more about me in my [blog](https://mutse.github.io/about/).
 
 - 🔭 I’m currently working in Wuhan of China
 - 🌱 I’m currently learning Swift, Docker & Celery
