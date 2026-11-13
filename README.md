@@ -10,10 +10,10 @@ Hi, My name is Mutse Young. I am a software developer fom China, and a Python so
 ## My iOS Apps
 
 [![Download on the App Store](https://appure.io/badges/appstore/black/en.svg)](https://apps.apple.com/us/app/chitv-%E6%92%AD%E6%94%BE%E5%99%A8/id6823914003)
-ChiTV Payer is a cross-platform video streaming app with VOD and CMS video sources.
+[ChiTV Payer](https://chitv.fit) is a cross-platform video streaming app with VOD and CMS video sources.
 
 [![Download on the App Store](https://appure.io/badges/appstore/black/en.svg)](https://apps.apple.com/us/app/chibook/id6810264383)
-Chibook is a local app that can build your personal library with local EPUB and PDF imports. Read, listen and reflect.
+[Chibook](https://chibook.mutse.top) is a local app that can build your personal library with local EPUB and PDF imports. Read, listen and reflect.
 
 ## Tech Stack :computer:
 
